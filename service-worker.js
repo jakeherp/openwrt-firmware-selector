@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/openwrt-firmware-selector/precache-manifest.f65abca9e510785f3ba1963e95a31d7a.js"
+  "/openwrt-firmware-selector/precache-manifest.d621f55a31d9a9839ab4101c65373d55.js"
 );
 
 self.addEventListener('message', (event) => {
