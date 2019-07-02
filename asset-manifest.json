@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/openwrt-firmware-selector/static/css/main.e401752d.chunk.css",
-    "main.js": "/openwrt-firmware-selector/static/js/main.3b2bd7bb.chunk.js",
-    "main.js.map": "/openwrt-firmware-selector/static/js/main.3b2bd7bb.chunk.js.map",
+    "main.js": "/openwrt-firmware-selector/static/js/main.4d19cdc7.chunk.js",
+    "main.js.map": "/openwrt-firmware-selector/static/js/main.4d19cdc7.chunk.js.map",
     "runtime~main.js": "/openwrt-firmware-selector/static/js/runtime~main.91706d78.js",
     "runtime~main.js.map": "/openwrt-firmware-selector/static/js/runtime~main.91706d78.js.map",
     "static/js/2.eff40079.chunk.js": "/openwrt-firmware-selector/static/js/2.eff40079.chunk.js",
     "static/js/2.eff40079.chunk.js.map": "/openwrt-firmware-selector/static/js/2.eff40079.chunk.js.map",
     "index.html": "/openwrt-firmware-selector/index.html",
-    "precache-manifest.78078db93be26a9f83dea124c4aa4ba3.js": "/openwrt-firmware-selector/precache-manifest.78078db93be26a9f83dea124c4aa4ba3.js",
+    "precache-manifest.385765aee18e07fbc923bf8d3eaa81a4.js": "/openwrt-firmware-selector/precache-manifest.385765aee18e07fbc923bf8d3eaa81a4.js",
     "service-worker.js": "/openwrt-firmware-selector/service-worker.js",
     "static/css/main.e401752d.chunk.css.map": "/openwrt-firmware-selector/static/css/main.e401752d.chunk.css.map"
   }
