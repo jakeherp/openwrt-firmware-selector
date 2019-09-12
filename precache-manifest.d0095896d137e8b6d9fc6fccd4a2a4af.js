@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a1fa5ef91183856b0bdcdff6f710bd7",
+    "revision": "abf2544e7af1da0a8739eae46c81fd65",
     "url": "/openwrt-firmware-selector/index.html"
   },
   {
-    "revision": "7cfa9f1b8d82f33860e4",
+    "revision": "ebc2313768d2258ebcbf",
     "url": "/openwrt-firmware-selector/static/css/main.fd591fd9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/openwrt-firmware-selector/static/js/2.216de17d.chunk.js"
   },
   {
-    "revision": "7cfa9f1b8d82f33860e4",
-    "url": "/openwrt-firmware-selector/static/js/main.fe342558.chunk.js"
+    "revision": "ebc2313768d2258ebcbf",
+    "url": "/openwrt-firmware-selector/static/js/main.45273b79.chunk.js"
   },
   {
     "revision": "f9874eb7040cfcfd9461",
